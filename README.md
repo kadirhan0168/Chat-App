@@ -20,5 +20,5 @@
     ```
     docker compose up -d
     ```
-7. Open multiple web browser tabs with the address [https://localhost](https://localhost).
+7. Open multiple webbrowser tabs with the address [https://localhost](https://localhost).
 8. Messages sent from one tab will be visible on the other tabs.
