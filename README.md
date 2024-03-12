@@ -14,12 +14,11 @@
     ```
     npm install mqtt --save
     ```
-4. Clone this repository.
-5. Start Docker Desktop.
-6. Change your working directory to the directory that contains the `docker-compose.yml` file.
-7. Execute the following command in your terminal:
+4. Start Docker Desktop.
+5. Change your working directory to the directory that contains the `docker-compose.yml` file.
+6. Execute the following command in your terminal:
     ```
     docker compose up -d
     ```
-8. Open multiple web browser tabs with the address [https://localhost](https://localhost).
-9. Messages sent from one tab will be visible on the other tabs.
+7. Open multiple web browser tabs with the address [https://localhost](https://localhost).
+8. Messages sent from one tab will be visible on the other tabs.
