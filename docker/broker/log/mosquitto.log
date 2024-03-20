@@ -1,0 +1,8 @@
+1709492121: mosquitto version 2.0.18 starting
+1709492121: Config loaded from /mosquitto/config/mosquitto.conf.
+1709492121: Error: Unable to open pwfile "/mosquitto/passwords/passwrd.txt".
+1709492121: Error opening password file "/mosquitto/passwords/passwrd.txt".
+1709492152: mosquitto version 2.0.18 starting
+1709492152: Config loaded from /mosquitto/config/mosquitto.conf.
+1709492152: Error: Unable to open pwfile "/mosquitto/passwords/passwrd.txt".
+1709492152: Error opening password file "/mosquitto/passwords/passwrd.txt".
